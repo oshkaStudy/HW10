@@ -36,3 +36,7 @@ logs/
 ### System ###
 .DS_Store
 Thumbs.db
+
+#allure
+allure/
+.allure/
